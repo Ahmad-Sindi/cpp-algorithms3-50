@@ -30,7 +30,7 @@ Rewrites the file excluding the marked record
 **Logical Deletion (Soft Delete)** 
 A safe technique where records are marked first, then physically removed during file rewrite.
 
-Used in:
+**Used in:**
 
 Databases
 
